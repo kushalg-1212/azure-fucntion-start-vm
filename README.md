@@ -1,0 +1,1 @@
+# azure-fucntion-start-vm
